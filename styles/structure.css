@@ -1,0 +1,29 @@
+nav ul {
+    display: flex;
+    gap: 20px;
+}
+nav ul li{
+list-style: none;
+}
+.nav-data{
+    text-decoration: none;
+    color: rgb(66, 65, 63);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 6px 10px;
+}
+.nav-data:hover{
+    background-color: tomato;
+    color: white;
+}
+.ariticale-header{
+    font-size: 24px;
+    font-weight: 600;
+}
+p{
+    text-align: start;
+}
+footer{
+    padding-top: 30px;
+    text-align: center;
+}
